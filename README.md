@@ -29,3 +29,11 @@ Then run the app at the root of the repository:
 ```bash
 vercel dev
 ```
+
+## Grant ChatGPT access to this repository
+
+To let ChatGPT work with this repository:
+
+1. In ChatGPT, open **Settings → Connectors → GitHub** and connect your GitHub account.
+2. Authorize the ChatGPT GitHub app when prompted.
+3. In GitHub app permissions, grant repository access to `daveymadeit/j10` (or all repositories if preferred).
